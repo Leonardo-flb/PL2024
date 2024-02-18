@@ -16,9 +16,9 @@
 
  Resumindo é uma substituição em cadeia e devido a isso, a ordem das expressões teve que mudar visto que, por exemplo, a expressão das imagens e do link são semelhantes com a exceção de um '!'.
 
- **Head #+(.*) :** 
- **Bold \*\*([^*]+)\*\* :**
- **Italico \*([^*]+)\*:**
- **Link \[(.+)\]\((.+)\) :**
- **Imagem \!\[(.+)\]\((.+)\) :**
- **Lista Numerda \d+\.\s(.+) :**
+ - **Head #+(.*) :** 
+ - **Bold \*\*([^*]+)\*\* :**
+ - **Italico \*([^*]+)\*:**
+ - **Link \[(.+)\]\((.+)\) :**
+ - **Imagem \!\[(.+)\]\((.+)\) :**
+ - **Lista Numerda \d+\.\s(.+) :**
