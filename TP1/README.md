@@ -12,4 +12,4 @@
 
  Percentagem de aptidão: Foram criados 2 contadores para os aptos e não aptos, ao percorrer o ficheiro era incrementado a respetiva aptidão. Em seguida eram calculadas as percentagens.
 
- Escalões: Foi criado um dicionário com 4 escalões pré-definidos. Dependendo da idade, era incrementado o número de pessoas no respetivo escalão.7
+ Escalões: Foi criado um dicionário com 4 escalões pré-definidos. Dependendo da idade, era incrementado o número de pessoas no respetivo escalão.
